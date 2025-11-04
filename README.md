@@ -5,12 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solterep&layout=compact&theme=radical" />
 </div>
 <div align="center">
-https://komarev.com/ghpvc/?username=Solterep&color=blueviolet&style=flat-square
-
-"First, solve the problem. Then, write the code." - John Johnson
-
-⭐ Star some repositories if you find something interesting! ⭐
-
+⭐"First, solve the problem. Then, write the code."⭐ - John Johnson
 </div>
 <!--
 **Solterep/Solterep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
