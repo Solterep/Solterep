@@ -7,17 +7,6 @@
 <div align="center">
 ⭐"First, solve the problem. Then, write the code."⭐ - John Johnson
 </div>
-🎯 Currently Focusing On
-<div align="center">
-🔭 Working on: Next-gen AI applications
-
-🌱 Learning: Advanced ML algorithms & Quantum computing basics
-
-👯 Looking to collaborate on: Open source AI projects
-
-🤔 Exploring: Blockchain integration with AI systems
-
-</div>
 <!--
 **Solterep/Solterep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
